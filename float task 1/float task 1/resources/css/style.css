@@ -1,0 +1,96 @@
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+
+*/
+
+* {
+    margin:0;
+    padding: 0;
+    
+}
+
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    background:  #f5f5f5;
+}
+
+img {
+    width: 200px;
+   
+}
+
+h1 {
+    color: #0974b3;
+    padding-left: 20px;
+    font-size: 40px;
+    
+}
+
+.newton {
+    border-top: 8px solid #0974b3;
+    background: white;
+    margin:50px;
+    height: 400px;
+    width: 990px;
+    padding: 20px;
+   
+    
+}
+
+.Float-right {
+    float:left;
+    margin: 20px;
+    
+}
+
+p {
+    margin: 20px;
+}
+
+.myself {
+    
+    color:#666;
+    line-height: 10%;
+  
+    
+}
+
+.years {
+    color: #666;
+    padding-left: 0.5cm;
+    line-height: 1.5px;
+   
+}
+
+
+
+.newton2 {
+    border-top: 8px solid #0974b3;
+    background: white;
+    margin: 10px;
+    height: 500px;
+    width: 450px;
+    padding: 20px;
+   
+}
+
+.col1{
+    width:420px;
+    float: left;
+    margin: 50px;
+    margin-top: 0;
+    
+}
+    
+.col2{
+    width:450px;
+    float: left;
+    margin: 50px;
+    margin-top: 0;
+    
+}
